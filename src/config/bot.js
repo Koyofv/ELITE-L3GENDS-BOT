@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "JOIN E3L TODAY!!!", // required by Discord API, not shown in the client
         state: "JOIN E3L TODAY!!!",     // this is what people actually see
-        type: 4,               // Custom
+        type: 5,               // Custom
       },
     ],
   },
