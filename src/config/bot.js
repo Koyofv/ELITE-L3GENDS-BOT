@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "JOIN E3L TODAY!!!", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "JOIN E3L TODAY!!!",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
